@@ -1,5 +1,6 @@
 # no_sql_IEI_N3_C1
 Bases de datos NO estructuradas, proyecto unidad 3
+la carpeta servidor no me dejo subir completa pero en el rar esta ok
 
 2. Instalar dependencias necesarias:
    Descargar e instalar Node.js.
